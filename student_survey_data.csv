@@ -1,0 +1,316 @@
+student_id,class_name,attend_full_class,absence_reason,difficult_to_follow,use_lecture_materials,study_suggestion,struggling_courses,dedicate_time,study_goal,study_2h_daily,follow_schedule,group_study_importance,training_feedback
+DH52201276,D22CQCN01,Có,Công việc cá nhân,Không,Không,Hỗ trợ thêm tài liệu tham khảo,Nhập môn lập trình,Có,Nắm vững kiến thức,Có,Có,Có,Cần cập nhật công nghệ mới
+DH52201777,D21CQCN01,Có,Lịch học quá dày đặc,Có,Có,Tăng số buổi học nhóm,Kỹ thuật lập trình,Có,Qua môn,Có,Có,Có,Cần cập nhật công nghệ mới
+DH52201776,D22CQCN01,Không,Công việc cá nhân,Không,Không,Hỗ trợ thêm tài liệu tham khảo,Lập trình hướng đối tượng,Có,Nắm vững kiến thức,Có,Có,Có,Không có ý kiến
+DH52201624,D22CQCN01,Có,Công việc cá nhân,Không,Không,Không có ý kiến,Khác,Có,Cải thiện điểm,Có,Có,Có,Không có ý kiến
+DH52201683,D21CQCN01,Không,Khác (tự do),Có,Có,Hỗ trợ thêm tài liệu tham khảo,Cấu trúc dữ liệu,Có,Qua môn,Có,Có,Có,Thiếu thực hành
+DH52201694,D21CQCN01,Có,Lý do sức khỏe,Có,Có,Không có ý kiến,Kỹ thuật lập trình,Không,Cải thiện điểm,Có,Có,Có,Thiếu thực hành
+DH52200911,D22CQCN01,Có,Công việc cá nhân,Có,Không,Cải thiện bài giảng,Khác,Có,Cải thiện điểm,Có,Có,Có,Cần cập nhật công nghệ mới
+DH52200755,D21CQCN02,Có,Công việc cá nhân,Có,Có,Cải thiện bài giảng,Nhập môn lập trình,Có,Qua môn,Có,Có,Có,Không có ý kiến
+DH52200802,D22CQCN01,Có,Khác (tự do),Không,Có,Cải thiện bài giảng,Nhập môn lập trình,Có,Nắm vững kiến thức,Có,Có,Có,Thiếu thực hành
+DH52200498,D22CQCN01,Không,Khác (tự do),Có,Có,Hỗ trợ thêm tài liệu tham khảo,Nhập môn lập trình,Có,Nắm vững kiến thức,Không,Có,Có,Không có ý kiến
+DH52200485,D22CQCN01,Có,Lý do sức khỏe,Không,Không,Cải thiện bài giảng,Nhập môn lập trình,Không,Nắm vững kiến thức,Không,Có,Có,Không có ý kiến
+DH52200532,D22CQCN01,Có,Khác (tự do),Có,Không,Tăng số buổi học nhóm,Cấu trúc dữ liệu,Có,Cải thiện điểm,Không,Có,Có,Thiếu thực hành
+DH52200399,D21CQCN01,Có,Lịch học quá dày đặc,Không,Không,Không có ý kiến,Kỹ thuật lập trình,Có,Cải thiện điểm,Không,Có,Có,Cần cập nhật công nghệ mới
+DH52200320,D22CQCN01,Không,Khác (tự do),Không,Có,Không có ý kiến,Lập trình hướng đối tượng,Có,Nắm vững kiến thức,Có,Có,Có,Thiếu thực hành
+DH52200308,D21CQCN02,Có,Lịch học quá dày đặc,Không,Không,Tăng số buổi học nhóm,Cấu trúc dữ liệu,Có,Cải thiện điểm,Không,Có,Có,Thiếu thực hành
+DH52200642,D21CQCN01,Không,Lý do sức khỏe,Không,Không,Hỗ trợ thêm tài liệu tham khảo,Cấu trúc dữ liệu,Có,Qua môn,Có,Có,Có,Không có ý kiến
+DH52200647,D21CQCN02,Có,Lý do sức khỏe,Không,Có,Hỗ trợ thêm tài liệu tham khảo,Lập trình hướng đối tượng,Có,Cải thiện điểm,Có,Có,Không,Thiếu thực hành
+DH52200979,D21CQCN02,Có,Lý do sức khỏe,Có,Không,Không có ý kiến,Lập trình hướng đối tượng,Có,Nắm vững kiến thức,Không,Có,Có,Cần cập nhật công nghệ mới
+DH52200982,D21CQCN02,Không,Lý do sức khỏe,Không,Có,Cải thiện bài giảng,Nhập môn lập trình,Có,Cải thiện điểm,Có,Có,Có,Thiếu thực hành
+DH52201014,D21CQCN02,Có,Lý do sức khỏe,Không,Có,Hỗ trợ thêm tài liệu tham khảo,Cấu trúc dữ liệu,Có,Qua môn,Không,Không,Có,Cần cập nhật công nghệ mới
+DH52201163,D21CQCN01,Không,Lịch học quá dày đặc,Không,Có,Hỗ trợ thêm tài liệu tham khảo,Khác,Có,Nắm vững kiến thức,Không,Có,Có,Cần cập nhật công nghệ mới
+DH52201273,D21CQCN01,Có,Lịch học quá dày đặc,Có,Có,Tăng số buổi học nhóm,Lập trình hướng đối tượng,Có,Qua môn,Không,Có,Có,Không có ý kiến
+DH52201266,D21CQCN02,Có,Lý do sức khỏe,Không,Có,Tăng số buổi học nhóm,Lập trình hướng đối tượng,Có,Qua môn,Không,Có,Có,Chương trình học phù hợp
+DH52201333,D21CQCN02,Có,Khác (tự do),Không,Có,Cải thiện bài giảng,Kỹ thuật lập trình,Có,Qua môn,Có,Có,Có,Chương trình học phù hợp
+DH52201374,D21CQCN01,Không,Công việc cá nhân,Có,Có,Hỗ trợ thêm tài liệu tham khảo,Khác,Không,Cải thiện điểm,Có,Có,Có,Không có ý kiến
+DH52201405,D21CQCN01,Có,Lý do sức khỏe,Có,Không,Hỗ trợ thêm tài liệu tham khảo,Khác,Không,Nắm vững kiến thức,Có,Có,Có,Thiếu thực hành
+DH52200661,D21CQCN01,Có,Khác (tự do),Không,Có,Tăng số buổi học nhóm,Lập trình hướng đối tượng,Không,Cải thiện điểm,Có,Không,Có,Không có ý kiến
+DH52200302,D22CQCN01,Có,Công việc cá nhân,Không,Có,Hỗ trợ thêm tài liệu tham khảo,Nhập môn lập trình,Có,Qua môn,Không,Có,Có,Cần cập nhật công nghệ mới
+DH52200450,D22CQCN01,Có,Lý do sức khỏe,Không,Có,Không có ý kiến,Kỹ thuật lập trình,Có,Nắm vững kiến thức,Không,Có,Có,Chương trình học phù hợp
+DH52201479,D22CQCN01,Có,Lý do sức khỏe,Có,Không,Tăng số buổi học nhóm,Khác,Có,Nắm vững kiến thức,Không,Có,Có,Không có ý kiến
+DH52201437,D21CQCN02,Có,Lịch học quá dày đặc,Không,Có,Cải thiện bài giảng,Lập trình hướng đối tượng,Có,Nắm vững kiến thức,Có,Có,Có,Thiếu thực hành
+DH52201445,D22CQCN01,Có,Công việc cá nhân,Có,Có,Tăng số buổi học nhóm,Khác,Không,Qua môn,Có,Có,Có,Không có ý kiến
+DH52201723,D21CQCN02,Không,Công việc cá nhân,Có,Không,Hỗ trợ thêm tài liệu tham khảo,Kỹ thuật lập trình,Có,Cải thiện điểm,Có,Có,Có,Chương trình học phù hợp
+DH52200383,D21CQCN02,Không,Khác (tự do),Có,Có,Cải thiện bài giảng,Kỹ thuật lập trình,Có,Nắm vững kiến thức,Có,Có,Có,Không có ý kiến
+DH52200410,D22CQCN01,Có,Lịch học quá dày đặc,Không,Có,Tăng số buổi học nhóm,Cấu trúc dữ liệu,Có,Nắm vững kiến thức,Không,Có,Có,Không có ý kiến
+DH52200421,D21CQCN02,Có,Lịch học quá dày đặc,Không,Có,Không có ý kiến,Lập trình hướng đối tượng,Có,Qua môn,Có,Có,Có,Chương trình học phù hợp
+DH52200533,D22CQCN01,Có,Lịch học quá dày đặc,Không,Không,Không có ý kiến,Kỹ thuật lập trình,Có,Qua môn,Có,Có,Không,Cần cập nhật công nghệ mới
+DH52200559,D22CQCN01,Có,Lịch học quá dày đặc,Có,Có,Tăng số buổi học nhóm,Cấu trúc dữ liệu,Có,Cải thiện điểm,Có,Có,Có,Cần cập nhật công nghệ mới
+DH52200562,D21CQCN01,Có,Công việc cá nhân,Không,Không,Không có ý kiến,Cấu trúc dữ liệu,Có,Nắm vững kiến thức,Không,Có,Có,Chương trình học phù hợp
+DH52200583,D22CQCN01,Có,Công việc cá nhân,Có,Có,Không có ý kiến,Khác,Có,Cải thiện điểm,Không,Có,Có,Không có ý kiến
+DH52200505,D21CQCN01,Có,Lý do sức khỏe,Không,Không,Không có ý kiến,Khác,Có,Cải thiện điểm,Có,Có,Có,Chương trình học phù hợp
+DH52200631,D22CQCN01,Không,Lý do sức khỏe,Không,Không,Cải thiện bài giảng,Cấu trúc dữ liệu,Có,Qua môn,Có,Có,Có,Cần cập nhật công nghệ mới
+DH52200637,D22CQCN01,Có,Lịch học quá dày đặc,Có,Không,Không có ý kiến,Khác,Không,Nắm vững kiến thức,Có,Không,Có,Thiếu thực hành
+DH52200655,D21CQCN01,Có,Lịch học quá dày đặc,Không,Có,Không có ý kiến,Kỹ thuật lập trình,Không,Nắm vững kiến thức,Có,Có,Có,Không có ý kiến
+DH52200761,D21CQCN01,Có,Lịch học quá dày đặc,Có,Không,Không có ý kiến,Nhập môn lập trình,Có,Cải thiện điểm,Không,Có,Có,Cần cập nhật công nghệ mới
+DH52200783,D22CQCN01,Có,Lý do sức khỏe,Không,Có,Cải thiện bài giảng,Kỹ thuật lập trình,Có,Nắm vững kiến thức,Không,Không,Có,Không có ý kiến
+DH52200784,D21CQCN02,Có,Khác (tự do),Không,Có,Tăng số buổi học nhóm,Cấu trúc dữ liệu,Có,Nắm vững kiến thức,Có,Có,Có,Chương trình học phù hợp
+DH52200789,D21CQCN01,Có,Khác (tự do),Có,Có,Hỗ trợ thêm tài liệu tham khảo,Cấu trúc dữ liệu,Có,Qua môn,Có,Có,Không,Thiếu thực hành
+DH52200741,D21CQCN02,Có,Lý do sức khỏe,Không,Không,Không có ý kiến,Kỹ thuật lập trình,Có,Cải thiện điểm,Không,Có,Có,Chương trình học phù hợp
+DH52200747,D21CQCN02,Có,Lý do sức khỏe,Có,Không,Tăng số buổi học nhóm,Khác,Không,Qua môn,Có,Có,Có,Thiếu thực hành
+DH52200758,D21CQCN02,Có,Lý do sức khỏe,Không,Không,Không có ý kiến,Khác,Có,Nắm vững kiến thức,Không,Có,Có,Không có ý kiến
+DH52200824,D21CQCN01,Có,Lý do sức khỏe,Không,Có,Cải thiện bài giảng,Cấu trúc dữ liệu,Không,Cải thiện điểm,Có,Có,Không,Không có ý kiến
+DH52200826,D21CQCN02,Có,Lý do sức khỏe,Không,Có,Tăng số buổi học nhóm,Lập trình hướng đối tượng,Có,Nắm vững kiến thức,Có,Có,Có,Chương trình học phù hợp
+DH52200848,D21CQCN01,Có,Lý do sức khỏe,Có,Không,Cải thiện bài giảng,Khác,Có,Nắm vững kiến thức,Có,Có,Có,Thiếu thực hành
+DH52200914,D21CQCN02,Có,Lịch học quá dày đặc,Không,Có,Không có ý kiến,Kỹ thuật lập trình,Có,Cải thiện điểm,Có,Có,Có,Thiếu thực hành
+DH52200950,D22CQCN01,Có,Lịch học quá dày đặc,Không,Có,Không có ý kiến,Khác,Không,Nắm vững kiến thức,Không,Có,Có,Không có ý kiến
+DH52200993,D22CQCN01,Không,Lịch học quá dày đặc,Có,Có,Cải thiện bài giảng,Kỹ thuật lập trình,Có,Cải thiện điểm,Có,Có,Có,Chương trình học phù hợp
+DH52201007,D21CQCN01,Có,Lịch học quá dày đặc,Có,Có,Hỗ trợ thêm tài liệu tham khảo,Cấu trúc dữ liệu,Có,Qua môn,Có,Có,Có,Thiếu thực hành
+DH52201008,D22CQCN01,Có,Lý do sức khỏe,Không,Có,Cải thiện bài giảng,Khác,Có,Nắm vững kiến thức,Có,Không,Có,Không có ý kiến
+DH52201033,D22CQCN01,Có,Khác (tự do),Không,Có,Không có ý kiến,Kỹ thuật lập trình,Có,Nắm vững kiến thức,Có,Không,Có,Cần cập nhật công nghệ mới
+DH52201084,D21CQCN02,Có,Công việc cá nhân,Không,Có,Cải thiện bài giảng,Cấu trúc dữ liệu,Có,Cải thiện điểm,Có,Có,Có,Chương trình học phù hợp
+DH52201098,D21CQCN01,Có,Lý do sức khỏe,Không,Có,Hỗ trợ thêm tài liệu tham khảo,Lập trình hướng đối tượng,Có,Nắm vững kiến thức,Có,Không,Có,Cần cập nhật công nghệ mới
+DH52201136,D21CQCN02,Có,Công việc cá nhân,Không,Không,Cải thiện bài giảng,Kỹ thuật lập trình,Có,Nắm vững kiến thức,Không,Có,Có,Chương trình học phù hợp
+DH52201139,D21CQCN02,Không,Khác (tự do),Có,Có,Hỗ trợ thêm tài liệu tham khảo,Lập trình hướng đối tượng,Có,Qua môn,Có,Không,Có,Không có ý kiến
+DH52201150,D21CQCN02,Không,Lịch học quá dày đặc,Có,Có,Hỗ trợ thêm tài liệu tham khảo,Lập trình hướng đối tượng,Có,Nắm vững kiến thức,Có,Có,Có,Thiếu thực hành
+DH52201180,D21CQCN02,Không,Khác (tự do),Có,Có,Cải thiện bài giảng,Nhập môn lập trình,Có,Qua môn,Không,Có,Không,Thiếu thực hành
+DH52111470,D21CQCN02,Có,Lý do sức khỏe,Không,Có,Cải thiện bài giảng,Khác,Có,Qua môn,Có,Có,Có,Thiếu thực hành
+DH52201198,D21CQCN02,Có,Lịch học quá dày đặc,Có,Không,Tăng số buổi học nhóm,Kỹ thuật lập trình,Có,Qua môn,Không,Có,Có,Chương trình học phù hợp
+DH52201206,D21CQCN02,Có,Lý do sức khỏe,Không,Không,Không có ý kiến,Lập trình hướng đối tượng,Có,Nắm vững kiến thức,Có,Có,Có,Không có ý kiến
+DH52201229,D21CQCN01,Có,Lịch học quá dày đặc,Không,Có,Hỗ trợ thêm tài liệu tham khảo,Nhập môn lập trình,Có,Nắm vững kiến thức,Không,Có,Không,Cần cập nhật công nghệ mới
+DH52201237,D22CQCN01,Có,Công việc cá nhân,Không,Có,Tăng số buổi học nhóm,Cấu trúc dữ liệu,Không,Qua môn,Không,Có,Có,Không có ý kiến
+DH52201285,D21CQCN02,Không,Công việc cá nhân,Có,Không,Cải thiện bài giảng,Kỹ thuật lập trình,Có,Cải thiện điểm,Không,Có,Có,Cần cập nhật công nghệ mới
+DH52201297,D21CQCN02,Có,Công việc cá nhân,Không,Không,Không có ý kiến,Lập trình hướng đối tượng,Có,Nắm vững kiến thức,Không,Có,Có,Chương trình học phù hợp
+DH52201347,D21CQCN02,Không,Khác (tự do),Có,Có,Tăng số buổi học nhóm,Khác,Có,Qua môn,Có,Có,Có,Chương trình học phù hợp
+DH52201354,D21CQCN02,Có,Lý do sức khỏe,Không,Có,Hỗ trợ thêm tài liệu tham khảo,Nhập môn lập trình,Có,Nắm vững kiến thức,Không,Có,Có,Cần cập nhật công nghệ mới
+DH52201358,D21CQCN02,Không,Khác (tự do),Có,Có,Tăng số buổi học nhóm,Lập trình hướng đối tượng,Có,Nắm vững kiến thức,Có,Có,Có,Cần cập nhật công nghệ mới
+DH52201351,D21CQCN02,Có,Công việc cá nhân,Có,Không,Hỗ trợ thêm tài liệu tham khảo,Khác,Có,Cải thiện điểm,Có,Có,Có,Cần cập nhật công nghệ mới
+DH52201377,D22CQCN01,Có,Lý do sức khỏe,Không,Có,Cải thiện bài giảng,Lập trình hướng đối tượng,Có,Nắm vững kiến thức,Có,Có,Không,Không có ý kiến
+DH52201388,D22CQCN01,Có,Công việc cá nhân,Có,Không,Không có ý kiến,Kỹ thuật lập trình,Có,Cải thiện điểm,Có,Có,Có,Cần cập nhật công nghệ mới
+DH52201469,D21CQCN02,Có,Khác (tự do),Có,Có,Không có ý kiến,Kỹ thuật lập trình,Có,Nắm vững kiến thức,Có,Không,Có,Chương trình học phù hợp
+DH52201490,D22CQCN01,Có,Khác (tự do),Không,Có,Không có ý kiến,Kỹ thuật lập trình,Có,Nắm vững kiến thức,Có,Có,Có,Chương trình học phù hợp
+DH52201509,D21CQCN01,Không,Khác (tự do),Không,Có,Cải thiện bài giảng,Nhập môn lập trình,Có,Nắm vững kiến thức,Có,Có,Có,Thiếu thực hành
+DH52201519,D21CQCN02,Có,Công việc cá nhân,Không,Có,Hỗ trợ thêm tài liệu tham khảo,Kỹ thuật lập trình,Có,Qua môn,Không,Không,Có,Cần cập nhật công nghệ mới
+DH52111865,D21CQCN01,Có,Lý do sức khỏe,Không,Có,Cải thiện bài giảng,Khác,Có,Nắm vững kiến thức,Không,Có,Có,Không có ý kiến
+DH52201544,D21CQCN01,Có,Lý do sức khỏe,Không,Có,Không có ý kiến,Lập trình hướng đối tượng,Có,Cải thiện điểm,Có,Có,Có,Không có ý kiến
+DH52201559,D21CQCN02,Có,Công việc cá nhân,Có,Có,Cải thiện bài giảng,Cấu trúc dữ liệu,Không,Qua môn,Có,Có,Có,Không có ý kiến
+DH52201598,D22CQCN01,Có,Lý do sức khỏe,Có,Không,Cải thiện bài giảng,Khác,Có,Qua môn,Có,Có,Không,Thiếu thực hành
+DH52201632,D21CQCN01,Có,Công việc cá nhân,Có,Có,Cải thiện bài giảng,Khác,Có,Cải thiện điểm,Có,Có,Có,Chương trình học phù hợp
+DH52112004,D21CQCN02,Có,Lý do sức khỏe,Không,Có,Hỗ trợ thêm tài liệu tham khảo,Kỹ thuật lập trình,Có,Cải thiện điểm,Có,Có,Có,Không có ý kiến
+DH52201782,D21CQCN01,Có,Lịch học quá dày đặc,Không,Không,Tăng số buổi học nhóm,Nhập môn lập trình,Có,Nắm vững kiến thức,Có,Có,Không,Chương trình học phù hợp
+DH52200329,D21CQCN01,Có,Lịch học quá dày đặc,Không,Không,Tăng số buổi học nhóm,Lập trình hướng đối tượng,Có,Nắm vững kiến thức,Có,Không,Có,Thiếu thực hành
+DH52200344,D21CQCN01,Có,Khác (tự do),Không,Không,Cải thiện bài giảng,Nhập môn lập trình,Có,Qua môn,Không,Có,Có,Cần cập nhật công nghệ mới
+DH52200423,D21CQCN01,Có,Lịch học quá dày đặc,Không,Không,Tăng số buổi học nhóm,Lập trình hướng đối tượng,Có,Nắm vững kiến thức,Có,Có,Có,Cần cập nhật công nghệ mới
+DH52200454,D22CQCN01,Không,Lịch học quá dày đặc,Có,Có,Tăng số buổi học nhóm,Lập trình hướng đối tượng,Có,Qua môn,Có,Có,Có,Cần cập nhật công nghệ mới
+DH52200472,D21CQCN01,Có,Lịch học quá dày đặc,Không,Có,Cải thiện bài giảng,Nhập môn lập trình,Có,Nắm vững kiến thức,Có,Có,Có,Không có ý kiến
+DH52200508,D21CQCN01,Có,Công việc cá nhân,Không,Không,Cải thiện bài giảng,Khác,Có,Nắm vững kiến thức,Có,Có,Có,Cần cập nhật công nghệ mới
+DH52200627,D21CQCN01,Có,Lịch học quá dày đặc,Không,Có,Không có ý kiến,Lập trình hướng đối tượng,Có,Cải thiện điểm,Có,Có,Có,Không có ý kiến
+DH52200670,D22CQCN01,Có,Lịch học quá dày đặc,Có,Có,Tăng số buổi học nhóm,Nhập môn lập trình,Không,Nắm vững kiến thức,Không,Có,Có,Thiếu thực hành
+DH52200752,D21CQCN01,Không,Khác (tự do),Không,Không,Hỗ trợ thêm tài liệu tham khảo,Lập trình hướng đối tượng,Có,Cải thiện điểm,Có,Có,Có,Thiếu thực hành
+DH52200821,D21CQCN01,Có,Lịch học quá dày đặc,Không,Có,Cải thiện bài giảng,Cấu trúc dữ liệu,Có,Cải thiện điểm,Có,Có,Có,Không có ý kiến
+DH52200828,D22CQCN01,Có,Lịch học quá dày đặc,Không,Có,Không có ý kiến,Khác,Không,Nắm vững kiến thức,Không,Có,Có,Chương trình học phù hợp
+DH52200859,D22CQCN01,Có,Lý do sức khỏe,Không,Có,Hỗ trợ thêm tài liệu tham khảo,Kỹ thuật lập trình,Có,Cải thiện điểm,Không,Có,Không,Cần cập nhật công nghệ mới
+DH52200897,D22CQCN01,Có,Khác (tự do),Không,Có,Tăng số buổi học nhóm,Lập trình hướng đối tượng,Có,Cải thiện điểm,Không,Có,Có,Cần cập nhật công nghệ mới
+DH52200945,D21CQCN01,Có,Khác (tự do),Không,Có,Không có ý kiến,Cấu trúc dữ liệu,Có,Cải thiện điểm,Có,Có,Có,Cần cập nhật công nghệ mới
+DH52200948,D22CQCN01,Có,Khác (tự do),Có,Có,Cải thiện bài giảng,Kỹ thuật lập trình,Không,Nắm vững kiến thức,Không,Có,Có,Không có ý kiến
+DH52200975,D22CQCN01,Có,Khác (tự do),Không,Không,Hỗ trợ thêm tài liệu tham khảo,Kỹ thuật lập trình,Có,Cải thiện điểm,Có,Có,Có,Thiếu thực hành
+DH52201031,D21CQCN01,Có,Khác (tự do),Không,Có,Cải thiện bài giảng,Lập trình hướng đối tượng,Có,Qua môn,Có,Có,Không,Cần cập nhật công nghệ mới
+DH52200998,D22CQCN01,Có,Khác (tự do),Không,Có,Tăng số buổi học nhóm,Nhập môn lập trình,Có,Nắm vững kiến thức,Có,Không,Có,Thiếu thực hành
+DH52201002,D21CQCN01,Có,Công việc cá nhân,Không,Không,Hỗ trợ thêm tài liệu tham khảo,Lập trình hướng đối tượng,Không,Nắm vững kiến thức,Có,Có,Có,Cần cập nhật công nghệ mới
+DH52201057,D21CQCN02,Có,Lịch học quá dày đặc,Không,Không,Tăng số buổi học nhóm,Cấu trúc dữ liệu,Có,Qua môn,Có,Không,Có,Cần cập nhật công nghệ mới
+DH52201081,D22CQCN01,Có,Khác (tự do),Không,Không,Tăng số buổi học nhóm,Kỹ thuật lập trình,Có,Qua môn,Có,Có,Có,Không có ý kiến
+DH52201083,D21CQCN02,Có,Lịch học quá dày đặc,Không,Không,Không có ý kiến,Lập trình hướng đối tượng,Có,Qua môn,Không,Không,Có,Chương trình học phù hợp
+DH52201090,D21CQCN01,Không,Lịch học quá dày đặc,Có,Có,Cải thiện bài giảng,Nhập môn lập trình,Có,Cải thiện điểm,Không,Có,Không,Không có ý kiến
+DH52201099,D22CQCN01,Có,Công việc cá nhân,Không,Có,Hỗ trợ thêm tài liệu tham khảo,Lập trình hướng đối tượng,Có,Cải thiện điểm,Không,Không,Có,Cần cập nhật công nghệ mới
+DH52201106,D21CQCN01,Có,Khác (tự do),Không,Có,Tăng số buổi học nhóm,Khác,Không,Nắm vững kiến thức,Có,Không,Có,Cần cập nhật công nghệ mới
+DH52201109,D21CQCN02,Không,Lý do sức khỏe,Có,Có,Tăng số buổi học nhóm,Nhập môn lập trình,Có,Nắm vững kiến thức,Không,Có,Có,Chương trình học phù hợp
+DH52201152,D21CQCN01,Không,Công việc cá nhân,Không,Có,Hỗ trợ thêm tài liệu tham khảo,Cấu trúc dữ liệu,Có,Nắm vững kiến thức,Có,Không,Có,Thiếu thực hành
+DH52111440,D22CQCN01,Có,Lý do sức khỏe,Không,Có,Tăng số buổi học nhóm,Kỹ thuật lập trình,Có,Cải thiện điểm,Không,Có,Có,Thiếu thực hành
+DH52201181,D22CQCN01,Có,Lịch học quá dày đặc,Không,Không,Không có ý kiến,Lập trình hướng đối tượng,Không,Nắm vững kiến thức,Có,Có,Có,Cần cập nhật công nghệ mới
+DH52201183,D21CQCN02,Có,Lịch học quá dày đặc,Không,Có,Không có ý kiến,Nhập môn lập trình,Có,Cải thiện điểm,Không,Có,Có,Thiếu thực hành
+DH52201207,D21CQCN01,Có,Công việc cá nhân,Có,Có,Không có ý kiến,Khác,Có,Nắm vững kiến thức,Có,Có,Có,Cần cập nhật công nghệ mới
+DH52201278,D22CQCN01,Không,Công việc cá nhân,Có,Có,Không có ý kiến,Nhập môn lập trình,Không,Nắm vững kiến thức,Không,Có,Có,Chương trình học phù hợp
+DH52201319,D21CQCN02,Không,Lý do sức khỏe,Có,Có,Tăng số buổi học nhóm,Khác,Không,Qua môn,Không,Có,Có,Chương trình học phù hợp
+DH52201335,D22CQCN01,Có,Khác (tự do),Không,Có,Hỗ trợ thêm tài liệu tham khảo,Cấu trúc dữ liệu,Không,Nắm vững kiến thức,Có,Không,Có,Cần cập nhật công nghệ mới
+DH52201362,D22CQCN01,Có,Lý do sức khỏe,Có,Không,Hỗ trợ thêm tài liệu tham khảo,Kỹ thuật lập trình,Không,Cải thiện điểm,Có,Có,Có,Chương trình học phù hợp
+DH52201466,D21CQCN01,Không,Công việc cá nhân,Có,Có,Hỗ trợ thêm tài liệu tham khảo,Cấu trúc dữ liệu,Có,Nắm vững kiến thức,Không,Có,Có,Không có ý kiến
+DH52201435,D22CQCN01,Có,Lý do sức khỏe,Có,Có,Hỗ trợ thêm tài liệu tham khảo,Lập trình hướng đối tượng,Có,Qua môn,Có,Không,Có,Không có ý kiến
+DH52201426,D21CQCN01,Có,Công việc cá nhân,Không,Có,Cải thiện bài giảng,Nhập môn lập trình,Có,Qua môn,Không,Không,Có,Chương trình học phù hợp
+DH52201485,D22CQCN01,Có,Lý do sức khỏe,Không,Không,Hỗ trợ thêm tài liệu tham khảo,Khác,Không,Nắm vững kiến thức,Có,Không,Có,Cần cập nhật công nghệ mới
+DH52201516,D21CQCN02,Có,Công việc cá nhân,Có,Có,Cải thiện bài giảng,Khác,Có,Qua môn,Có,Có,Có,Cần cập nhật công nghệ mới
+DH52201527,D22CQCN01,Không,Công việc cá nhân,Có,Có,Cải thiện bài giảng,Nhập môn lập trình,Có,Nắm vững kiến thức,Có,Không,Có,Chương trình học phù hợp
+DH52201580,D21CQCN01,Không,Công việc cá nhân,Không,Có,Không có ý kiến,Nhập môn lập trình,Có,Qua môn,Có,Có,Có,Thiếu thực hành
+DH52201581,D21CQCN01,Không,Khác (tự do),Không,Có,Cải thiện bài giảng,Lập trình hướng đối tượng,Có,Nắm vững kiến thức,Không,Có,Có,Không có ý kiến
+DH52201590,D21CQCN02,Có,Lý do sức khỏe,Có,Không,Tăng số buổi học nhóm,Cấu trúc dữ liệu,Có,Nắm vững kiến thức,Có,Có,Có,Thiếu thực hành
+DH52201610,D22CQCN01,Không,Lý do sức khỏe,Không,Không,Cải thiện bài giảng,Khác,Không,Cải thiện điểm,Có,Có,Có,Cần cập nhật công nghệ mới
+DH52108881,D22CQCN01,Có,Lý do sức khỏe,Có,Có,Không có ý kiến,Lập trình hướng đối tượng,Không,Cải thiện điểm,Có,Có,Có,Cần cập nhật công nghệ mới
+DH52201638,D21CQCN02,Có,Công việc cá nhân,Có,Không,Cải thiện bài giảng,Cấu trúc dữ liệu,Có,Qua môn,Có,Có,Có,Thiếu thực hành
+DH52201639,D22CQCN01,Có,Lý do sức khỏe,Không,Không,Tăng số buổi học nhóm,Lập trình hướng đối tượng,Có,Qua môn,Không,Có,Có,Chương trình học phù hợp
+DH52201642,D22CQCN01,Không,Lý do sức khỏe,Không,Không,Tăng số buổi học nhóm,Khác,Có,Cải thiện điểm,Không,Có,Không,Thiếu thực hành
+DH52201649,D21CQCN01,Không,Công việc cá nhân,Không,Không,Tăng số buổi học nhóm,Nhập môn lập trình,Có,Nắm vững kiến thức,Có,Có,Có,Thiếu thực hành
+DH52201677,D22CQCN01,Có,Lịch học quá dày đặc,Có,Có,Không có ý kiến,Nhập môn lập trình,Không,Nắm vững kiến thức,Không,Có,Có,Không có ý kiến
+DH52201679,D22CQCN01,Không,Công việc cá nhân,Không,Có,Không có ý kiến,Cấu trúc dữ liệu,Có,Nắm vững kiến thức,Không,Có,Có,Không có ý kiến
+DH52201703,D21CQCN02,Có,Lý do sức khỏe,Không,Có,Hỗ trợ thêm tài liệu tham khảo,Kỹ thuật lập trình,Có,Nắm vững kiến thức,Có,Có,Không,Thiếu thực hành
+DH52201738,D21CQCN02,Có,Công việc cá nhân,Có,Không,Không có ý kiến,Cấu trúc dữ liệu,Không,Nắm vững kiến thức,Không,Có,Có,Thiếu thực hành
+DH52201744,D21CQCN01,Có,Lịch học quá dày đặc,Không,Có,Tăng số buổi học nhóm,Kỹ thuật lập trình,Có,Nắm vững kiến thức,Có,Có,Có,Cần cập nhật công nghệ mới
+DH52201748,D22CQCN01,Có,Công việc cá nhân,Có,Không,Tăng số buổi học nhóm,Lập trình hướng đối tượng,Có,Qua môn,Có,Không,Có,Không có ý kiến
+DH52201763,D22CQCN01,Có,Lý do sức khỏe,Không,Không,Không có ý kiến,Lập trình hướng đối tượng,Có,Nắm vững kiến thức,Không,Có,Có,Không có ý kiến
+DH52201789,D22CQCN01,Có,Lịch học quá dày đặc,Có,Có,Cải thiện bài giảng,Khác,Có,Nắm vững kiến thức,Có,Có,Có,Cần cập nhật công nghệ mới
+DH52200319,D21CQCN01,Có,Khác (tự do),Không,Không,Không có ý kiến,Kỹ thuật lập trình,Có,Cải thiện điểm,Không,Có,Có,Chương trình học phù hợp
+DH52200365,D21CQCN01,Có,Lý do sức khỏe,Có,Có,Không có ý kiến,Khác,Có,Qua môn,Không,Có,Có,Không có ý kiến
+DH52200391,D21CQCN02,Có,Lịch học quá dày đặc,Không,Có,Tăng số buổi học nhóm,Nhập môn lập trình,Có,Cải thiện điểm,Có,Có,Có,Không có ý kiến
+DH52200415,D21CQCN01,Có,Lịch học quá dày đặc,Không,Không,Hỗ trợ thêm tài liệu tham khảo,Kỹ thuật lập trình,Không,Cải thiện điểm,Không,Có,Không,Chương trình học phù hợp
+DH52200452,D22CQCN01,Có,Khác (tự do),Không,Có,Tăng số buổi học nhóm,Cấu trúc dữ liệu,Có,Nắm vững kiến thức,Có,Có,Có,Không có ý kiến
+DH52200453,D22CQCN01,Có,Công việc cá nhân,Có,Không,Hỗ trợ thêm tài liệu tham khảo,Nhập môn lập trình,Có,Cải thiện điểm,Có,Có,Có,Không có ý kiến
+DH52200529,D21CQCN01,Có,Công việc cá nhân,Không,Không,Tăng số buổi học nhóm,Nhập môn lập trình,Có,Cải thiện điểm,Không,Có,Có,Chương trình học phù hợp
+DH52200558,D22CQCN01,Có,Lý do sức khỏe,Có,Có,Không có ý kiến,Cấu trúc dữ liệu,Có,Nắm vững kiến thức,Không,Có,Có,Chương trình học phù hợp
+DH52200490,D22CQCN01,Có,Khác (tự do),Không,Có,Tăng số buổi học nhóm,Nhập môn lập trình,Có,Qua môn,Có,Có,Có,Thiếu thực hành
+DH52200492,D21CQCN01,Có,Công việc cá nhân,Có,Có,Tăng số buổi học nhóm,Kỹ thuật lập trình,Có,Cải thiện điểm,Có,Có,Có,Cần cập nhật công nghệ mới
+DH52200499,D21CQCN01,Không,Khác (tự do),Có,Có,Tăng số buổi học nhóm,Khác,Có,Qua môn,Không,Có,Có,Cần cập nhật công nghệ mới
+DH52200439,D22CQCN01,Có,Công việc cá nhân,Có,Không,Không có ý kiến,Nhập môn lập trình,Không,Nắm vững kiến thức,Không,Có,Có,Chương trình học phù hợp
+DH52200608,D22CQCN01,Có,Lịch học quá dày đặc,Không,Có,Không có ý kiến,Kỹ thuật lập trình,Có,Nắm vững kiến thức,Không,Không,Có,Chương trình học phù hợp
+DH52200614,D22CQCN01,Không,Công việc cá nhân,Không,Có,Không có ý kiến,Lập trình hướng đối tượng,Có,Qua môn,Có,Không,Có,Không có ý kiến
+DH52200616,D21CQCN02,Có,Khác (tự do),Có,Có,Không có ý kiến,Kỹ thuật lập trình,Không,Nắm vững kiến thức,Có,Có,Có,Thiếu thực hành
+DH52200662,D21CQCN02,Có,Lịch học quá dày đặc,Không,Có,Hỗ trợ thêm tài liệu tham khảo,Khác,Có,Qua môn,Có,Có,Có,Thiếu thực hành
+DH52200681,D21CQCN02,Có,Lịch học quá dày đặc,Không,Không,Hỗ trợ thêm tài liệu tham khảo,Kỹ thuật lập trình,Có,Nắm vững kiến thức,Không,Có,Có,Chương trình học phù hợp
+DH52200683,D21CQCN01,Có,Lịch học quá dày đặc,Không,Có,Cải thiện bài giảng,Cấu trúc dữ liệu,Có,Nắm vững kiến thức,Có,Có,Có,Không có ý kiến
+DH52200806,D21CQCN02,Có,Khác (tự do),Không,Không,Không có ý kiến,Khác,Có,Nắm vững kiến thức,Có,Có,Không,Không có ý kiến
+DH52200815,D21CQCN01,Có,Lý do sức khỏe,Không,Có,Hỗ trợ thêm tài liệu tham khảo,Lập trình hướng đối tượng,Có,Qua môn,Không,Không,Có,Cần cập nhật công nghệ mới
+DH52200854,D21CQCN01,Có,Lý do sức khỏe,Không,Không,Tăng số buổi học nhóm,Cấu trúc dữ liệu,Có,Nắm vững kiến thức,Có,Không,Có,Cần cập nhật công nghệ mới
+DH52200890,D21CQCN02,Có,Lý do sức khỏe,Có,Có,Không có ý kiến,Kỹ thuật lập trình,Có,Nắm vững kiến thức,Không,Có,Có,Không có ý kiến
+DH52200901,D21CQCN02,Không,Khác (tự do),Có,Có,Cải thiện bài giảng,Khác,Có,Cải thiện điểm,Không,Có,Có,Cần cập nhật công nghệ mới
+DH52200912,D21CQCN02,Có,Lịch học quá dày đặc,Không,Không,Cải thiện bài giảng,Lập trình hướng đối tượng,Có,Nắm vững kiến thức,Không,Có,Có,Chương trình học phù hợp
+DH52200915,D22CQCN01,Có,Lý do sức khỏe,Không,Có,Cải thiện bài giảng,Cấu trúc dữ liệu,Có,Qua môn,Có,Có,Có,Không có ý kiến
+DH52200986,D21CQCN02,Có,Khác (tự do),Có,Không,Tăng số buổi học nhóm,Lập trình hướng đối tượng,Có,Nắm vững kiến thức,Có,Có,Có,Cần cập nhật công nghệ mới
+DH52201015,D22CQCN01,Có,Lý do sức khỏe,Có,Có,Hỗ trợ thêm tài liệu tham khảo,Kỹ thuật lập trình,Có,Qua môn,Không,Có,Có,Thiếu thực hành
+DH52201065,D21CQCN01,Có,Công việc cá nhân,Không,Có,Tăng số buổi học nhóm,Lập trình hướng đối tượng,Có,Nắm vững kiến thức,Không,Có,Có,Không có ý kiến
+DH52201066,D22CQCN01,Có,Lý do sức khỏe,Không,Có,Không có ý kiến,Nhập môn lập trình,Không,Cải thiện điểm,Không,Có,Không,Không có ý kiến
+DH52201068,D21CQCN02,Có,Lý do sức khỏe,Có,Không,Cải thiện bài giảng,Cấu trúc dữ liệu,Có,Qua môn,Có,Có,Có,Thiếu thực hành
+DH52201070,D21CQCN01,Có,Lịch học quá dày đặc,Có,Có,Tăng số buổi học nhóm,Lập trình hướng đối tượng,Có,Qua môn,Không,Không,Có,Chương trình học phù hợp
+DH52201080,D21CQCN01,Có,Khác (tự do),Không,Có,Tăng số buổi học nhóm,Kỹ thuật lập trình,Có,Qua môn,Không,Có,Có,Thiếu thực hành
+DH52201138,D21CQCN01,Có,Lịch học quá dày đặc,Không,Có,Hỗ trợ thêm tài liệu tham khảo,Kỹ thuật lập trình,Có,Cải thiện điểm,Không,Có,Có,Không có ý kiến
+DH52201201,D22CQCN01,Có,Lịch học quá dày đặc,Có,Có,Hỗ trợ thêm tài liệu tham khảo,Lập trình hướng đối tượng,Không,Cải thiện điểm,Không,Có,Có,Chương trình học phù hợp
+DH52201253,D21CQCN02,Có,Lịch học quá dày đặc,Có,Có,Cải thiện bài giảng,Kỹ thuật lập trình,Không,Cải thiện điểm,Không,Có,Có,Cần cập nhật công nghệ mới
+DH52201275,D21CQCN01,Không,Lịch học quá dày đặc,Có,Không,Tăng số buổi học nhóm,Khác,Có,Qua môn,Không,Có,Có,Cần cập nhật công nghệ mới
+DH52201315,D21CQCN01,Không,Lịch học quá dày đặc,Không,Không,Tăng số buổi học nhóm,Khác,Có,Qua môn,Có,Có,Có,Cần cập nhật công nghệ mới
+DH52201290,D21CQCN01,Có,Lý do sức khỏe,Có,Không,Hỗ trợ thêm tài liệu tham khảo,Khác,Có,Nắm vững kiến thức,Có,Không,Có,Không có ý kiến
+DH52201341,D22CQCN01,Không,Lịch học quá dày đặc,Có,Không,Tăng số buổi học nhóm,Nhập môn lập trình,Không,Qua môn,Có,Có,Có,Thiếu thực hành
+DH52201392,D22CQCN01,Có,Lịch học quá dày đặc,Không,Có,Tăng số buổi học nhóm,Lập trình hướng đối tượng,Có,Nắm vững kiến thức,Có,Không,Có,Chương trình học phù hợp
+DH52201412,D21CQCN02,Có,Khác (tự do),Có,Không,Tăng số buổi học nhóm,Nhập môn lập trình,Có,Nắm vững kiến thức,Có,Có,Có,Cần cập nhật công nghệ mới
+DH52201418,D22CQCN01,Có,Công việc cá nhân,Không,Có,Hỗ trợ thêm tài liệu tham khảo,Kỹ thuật lập trình,Có,Nắm vững kiến thức,Có,Có,Có,Chương trình học phù hợp
+DH52201419,D21CQCN01,Có,Lý do sức khỏe,Có,Có,Cải thiện bài giảng,Nhập môn lập trình,Có,Cải thiện điểm,Có,Có,Có,Không có ý kiến
+DH52201447,D21CQCN02,Có,Lý do sức khỏe,Có,Có,Không có ý kiến,Kỹ thuật lập trình,Có,Nắm vững kiến thức,Có,Có,Có,Cần cập nhật công nghệ mới
+DH52201451,D21CQCN01,Có,Lý do sức khỏe,Có,Có,Cải thiện bài giảng,Kỹ thuật lập trình,Có,Qua môn,Không,Có,Có,Không có ý kiến
+DH52201475,D21CQCN01,Có,Lịch học quá dày đặc,Không,Không,Không có ý kiến,Cấu trúc dữ liệu,Có,Qua môn,Không,Có,Có,Thiếu thực hành
+DH52201431,D22CQCN01,Có,Lịch học quá dày đặc,Không,Có,Tăng số buổi học nhóm,Khác,Có,Qua môn,Có,Có,Có,Không có ý kiến
+DH52201508,D21CQCN02,Không,Lịch học quá dày đặc,Không,Có,Cải thiện bài giảng,Kỹ thuật lập trình,Có,Nắm vững kiến thức,Không,Không,Có,Không có ý kiến
+DH52201568,D22CQCN01,Không,Khác (tự do),Có,Có,Không có ý kiến,Cấu trúc dữ liệu,Có,Qua môn,Có,Không,Có,Thiếu thực hành
+DH52201569,D22CQCN01,Có,Công việc cá nhân,Không,Không,Hỗ trợ thêm tài liệu tham khảo,Khác,Có,Cải thiện điểm,Có,Không,Có,Chương trình học phù hợp
+DH52201601,D21CQCN02,Không,Lịch học quá dày đặc,Có,Có,Hỗ trợ thêm tài liệu tham khảo,Kỹ thuật lập trình,Có,Nắm vững kiến thức,Có,Có,Có,Thiếu thực hành
+DH52201659,D21CQCN01,Không,Công việc cá nhân,Có,Có,Cải thiện bài giảng,Kỹ thuật lập trình,Có,Nắm vững kiến thức,Có,Có,Có,Thiếu thực hành
+DH52201713,D21CQCN01,Không,Khác (tự do),Không,Có,Cải thiện bài giảng,Nhập môn lập trình,Có,Cải thiện điểm,Không,Có,Có,Không có ý kiến
+DH52201724,D21CQCN02,Có,Lý do sức khỏe,Có,Không,Tăng số buổi học nhóm,Nhập môn lập trình,Có,Qua môn,Không,Có,Không,Chương trình học phù hợp
+DH52201757,D21CQCN01,Có,Lịch học quá dày đặc,Có,Có,Cải thiện bài giảng,Khác,Có,Nắm vững kiến thức,Có,Có,Không,Cần cập nhật công nghệ mới
+DH52200311,D21CQCN02,Có,Công việc cá nhân,Có,Có,Tăng số buổi học nhóm,Kỹ thuật lập trình,Có,Cải thiện điểm,Có,Có,Có,Thiếu thực hành
+DH52200312,D21CQCN02,Có,Công việc cá nhân,Có,Có,Tăng số buổi học nhóm,Lập trình hướng đối tượng,Có,Qua môn,Có,Có,Có,Chương trình học phù hợp
+DH52200315,D22CQCN01,Không,Lịch học quá dày đặc,Có,Có,Hỗ trợ thêm tài liệu tham khảo,Nhập môn lập trình,Không,Qua môn,Có,Có,Có,Thiếu thực hành
+DH52200347,D21CQCN02,Có,Lý do sức khỏe,Không,Có,Hỗ trợ thêm tài liệu tham khảo,Khác,Có,Nắm vững kiến thức,Có,Không,Không,Thiếu thực hành
+DH52200352,D22CQCN01,Không,Lý do sức khỏe,Không,Có,Không có ý kiến,Kỹ thuật lập trình,Không,Nắm vững kiến thức,Có,Có,Có,Thiếu thực hành
+DH52200387,D21CQCN01,Không,Lý do sức khỏe,Không,Không,Hỗ trợ thêm tài liệu tham khảo,Kỹ thuật lập trình,Có,Nắm vững kiến thức,Không,Có,Có,Thiếu thực hành
+DH52200388,D21CQCN01,Không,Khác (tự do),Không,Có,Hỗ trợ thêm tài liệu tham khảo,Lập trình hướng đối tượng,Có,Nắm vững kiến thức,Không,Có,Có,Không có ý kiến
+DH52200395,D21CQCN01,Có,Công việc cá nhân,Có,Có,Cải thiện bài giảng,Khác,Có,Cải thiện điểm,Có,Không,Có,Chương trình học phù hợp
+DH52200412,D21CQCN01,Có,Công việc cá nhân,Có,Không,Hỗ trợ thêm tài liệu tham khảo,Kỹ thuật lập trình,Có,Cải thiện điểm,Không,Có,Có,Chương trình học phù hợp
+DH52200536,D22CQCN01,Có,Công việc cá nhân,Có,Có,Không có ý kiến,Nhập môn lập trình,Có,Cải thiện điểm,Có,Có,Có,Chương trình học phù hợp
+DH52200457,D21CQCN01,Không,Khác (tự do),Không,Có,Cải thiện bài giảng,Lập trình hướng đối tượng,Có,Cải thiện điểm,Có,Có,Có,Thiếu thực hành
+DH52200445,D21CQCN02,Có,Công việc cá nhân,Có,Có,Không có ý kiến,Khác,Có,Cải thiện điểm,Có,Có,Có,Không có ý kiến
+DH52200448,D21CQCN02,Có,Khác (tự do),Không,Có,Hỗ trợ thêm tài liệu tham khảo,Lập trình hướng đối tượng,Có,Nắm vững kiến thức,Không,Có,Có,Thiếu thực hành
+DH52200604,D21CQCN02,Có,Lý do sức khỏe,Không,Không,Không có ý kiến,Nhập môn lập trình,Có,Nắm vững kiến thức,Không,Có,Có,Thiếu thực hành
+DH52200615,D22CQCN01,Có,Lịch học quá dày đặc,Không,Có,Cải thiện bài giảng,Khác,Có,Nắm vững kiến thức,Không,Có,Có,Chương trình học phù hợp
+DH52200680,D21CQCN01,Không,Công việc cá nhân,Không,Không,Tăng số buổi học nhóm,Lập trình hướng đối tượng,Có,Cải thiện điểm,Có,Có,Có,Thiếu thực hành
+DH52200685,D21CQCN01,Không,Công việc cá nhân,Có,Có,Không có ý kiến,Cấu trúc dữ liệu,Có,Nắm vững kiến thức,Không,Có,Có,Cần cập nhật công nghệ mới
+DH52200695,D21CQCN01,Có,Lý do sức khỏe,Không,Có,Không có ý kiến,Nhập môn lập trình,Có,Nắm vững kiến thức,Có,Không,Có,Thiếu thực hành
+DH52200700,D22CQCN01,Không,Lịch học quá dày đặc,Không,Có,Cải thiện bài giảng,Nhập môn lập trình,Có,Cải thiện điểm,Không,Có,Có,Cần cập nhật công nghệ mới
+DH52200716,D21CQCN02,Có,Khác (tự do),Có,Có,Cải thiện bài giảng,Nhập môn lập trình,Có,Nắm vững kiến thức,Có,Có,Có,Thiếu thực hành
+DH52200724,D21CQCN02,Có,Lịch học quá dày đặc,Không,Có,Không có ý kiến,Cấu trúc dữ liệu,Có,Qua môn,Có,Có,Có,Không có ý kiến
+DH52200765,D21CQCN01,Có,Lý do sức khỏe,Không,Không,Hỗ trợ thêm tài liệu tham khảo,Cấu trúc dữ liệu,Không,Cải thiện điểm,Có,Có,Có,Không có ý kiến
+DH52200770,D21CQCN02,Có,Lý do sức khỏe,Không,Có,Không có ý kiến,Kỹ thuật lập trình,Không,Qua môn,Không,Có,Có,Chương trình học phù hợp
+DH52200787,D21CQCN02,Có,Lịch học quá dày đặc,Không,Không,Cải thiện bài giảng,Lập trình hướng đối tượng,Có,Cải thiện điểm,Có,Có,Có,Thiếu thực hành
+DH52200792,D22CQCN01,Có,Khác (tự do),Không,Có,Tăng số buổi học nhóm,Kỹ thuật lập trình,Có,Cải thiện điểm,Không,Có,Có,Cần cập nhật công nghệ mới
+DH52200811,D22CQCN01,Có,Khác (tự do),Có,Không,Tăng số buổi học nhóm,Lập trình hướng đối tượng,Có,Nắm vững kiến thức,Có,Có,Có,Cần cập nhật công nghệ mới
+DH52200739,D22CQCN01,Có,Công việc cá nhân,Có,Không,Hỗ trợ thêm tài liệu tham khảo,Cấu trúc dữ liệu,Có,Nắm vững kiến thức,Không,Có,Có,Thiếu thực hành
+DH52200751,D22CQCN01,Có,Khác (tự do),Không,Không,Không có ý kiến,Cấu trúc dữ liệu,Có,Nắm vững kiến thức,Không,Có,Có,Cần cập nhật công nghệ mới
+DH52200844,D21CQCN01,Có,Lịch học quá dày đặc,Không,Không,Tăng số buổi học nhóm,Kỹ thuật lập trình,Có,Nắm vững kiến thức,Không,Không,Có,Không có ý kiến
+DH52200876,D22CQCN01,Có,Lý do sức khỏe,Có,Không,Không có ý kiến,Khác,Không,Cải thiện điểm,Có,Có,Có,Cần cập nhật công nghệ mới
+DH52200891,D21CQCN02,Có,Công việc cá nhân,Có,Có,Cải thiện bài giảng,Kỹ thuật lập trình,Có,Nắm vững kiến thức,Có,Có,Có,Chương trình học phù hợp
+DH52200893,D21CQCN01,Có,Công việc cá nhân,Không,Có,Tăng số buổi học nhóm,Lập trình hướng đối tượng,Có,Qua môn,Có,Có,Có,Không có ý kiến
+DH52200923,D21CQCN02,Không,Lý do sức khỏe,Không,Có,Hỗ trợ thêm tài liệu tham khảo,Kỹ thuật lập trình,Có,Qua môn,Không,Có,Có,Không có ý kiến
+DH52200964,D21CQCN02,Không,Khác (tự do),Không,Không,Cải thiện bài giảng,Nhập môn lập trình,Có,Cải thiện điểm,Có,Có,Có,Không có ý kiến
+DH52201025,D21CQCN02,Có,Lý do sức khỏe,Có,Có,Hỗ trợ thêm tài liệu tham khảo,Lập trình hướng đối tượng,Có,Cải thiện điểm,Có,Có,Có,Thiếu thực hành
+DH52201027,D22CQCN01,Có,Khác (tự do),Có,Không,Cải thiện bài giảng,Lập trình hướng đối tượng,Có,Qua môn,Có,Không,Có,Thiếu thực hành
+DH52201051,D22CQCN01,Có,Lý do sức khỏe,Có,Có,Tăng số buổi học nhóm,Khác,Có,Qua môn,Có,Có,Có,Không có ý kiến
+DH52201092,D21CQCN01,Có,Lịch học quá dày đặc,Không,Có,Hỗ trợ thêm tài liệu tham khảo,Cấu trúc dữ liệu,Có,Qua môn,Không,Có,Có,Thiếu thực hành
+DH52201115,D21CQCN01,Có,Khác (tự do),Có,Có,Hỗ trợ thêm tài liệu tham khảo,Lập trình hướng đối tượng,Không,Nắm vững kiến thức,Có,Có,Có,Cần cập nhật công nghệ mới
+DH52201141,D22CQCN01,Có,Lịch học quá dày đặc,Không,Có,Cải thiện bài giảng,Cấu trúc dữ liệu,Có,Cải thiện điểm,Không,Có,Có,Thiếu thực hành
+DH52201148,D21CQCN02,Có,Công việc cá nhân,Có,Có,Hỗ trợ thêm tài liệu tham khảo,Kỹ thuật lập trình,Có,Cải thiện điểm,Có,Có,Có,Thiếu thực hành
+DH52201248,D21CQCN01,Có,Lý do sức khỏe,Không,Có,Cải thiện bài giảng,Nhập môn lập trình,Có,Qua môn,Có,Có,Có,Không có ý kiến
+DH52201257,D22CQCN01,Không,Công việc cá nhân,Không,Có,Cải thiện bài giảng,Khác,Không,Nắm vững kiến thức,Có,Có,Có,Chương trình học phù hợp
+DH52201258,D22CQCN01,Không,Công việc cá nhân,Không,Có,Cải thiện bài giảng,Cấu trúc dữ liệu,Có,Qua môn,Có,Có,Có,Chương trình học phù hợp
+DH52201324,D22CQCN01,Có,Công việc cá nhân,Có,Có,Cải thiện bài giảng,Lập trình hướng đối tượng,Có,Qua môn,Có,Có,Không,Chương trình học phù hợp
+DH52201334,D21CQCN02,Có,Công việc cá nhân,Có,Có,Tăng số buổi học nhóm,Cấu trúc dữ liệu,Không,Cải thiện điểm,Không,Có,Có,Cần cập nhật công nghệ mới
+DH52201373,D22CQCN01,Có,Lý do sức khỏe,Có,Không,Cải thiện bài giảng,Lập trình hướng đối tượng,Không,Qua môn,Có,Có,Có,Thiếu thực hành
+DH52201379,D22CQCN01,Không,Công việc cá nhân,Không,Có,Không có ý kiến,Cấu trúc dữ liệu,Có,Qua môn,Không,Không,Có,Chương trình học phù hợp
+DH52201390,D22CQCN01,Không,Lý do sức khỏe,Không,Có,Hỗ trợ thêm tài liệu tham khảo,Lập trình hướng đối tượng,Không,Qua môn,Có,Có,Có,Không có ý kiến
+DH52201448,D22CQCN01,Có,Lý do sức khỏe,Không,Có,Không có ý kiến,Kỹ thuật lập trình,Có,Qua môn,Có,Không,Có,Chương trình học phù hợp
+DH52201449,D21CQCN01,Có,Lịch học quá dày đặc,Không,Có,Tăng số buổi học nhóm,Lập trình hướng đối tượng,Có,Qua môn,Không,Có,Có,Chương trình học phù hợp
+DH52201467,D21CQCN01,Có,Khác (tự do),Không,Có,Không có ý kiến,Lập trình hướng đối tượng,Có,Cải thiện điểm,Có,Có,Có,Thiếu thực hành
+DH52201434,D22CQCN01,Có,Khác (tự do),Có,Có,Hỗ trợ thêm tài liệu tham khảo,Nhập môn lập trình,Có,Nắm vững kiến thức,Có,Có,Có,Thiếu thực hành
+DH52201556,D21CQCN02,Có,Lý do sức khỏe,Không,Có,Không có ý kiến,Lập trình hướng đối tượng,Có,Cải thiện điểm,Có,Có,Có,Thiếu thực hành
+DH52201605,D21CQCN01,Có,Lịch học quá dày đặc,Không,Có,Tăng số buổi học nhóm,Nhập môn lập trình,Có,Cải thiện điểm,Có,Có,Có,Cần cập nhật công nghệ mới
+DH52201669,D22CQCN01,Không,Lý do sức khỏe,Có,Có,Cải thiện bài giảng,Khác,Có,Qua môn,Không,Có,Có,Cần cập nhật công nghệ mới
+DH52201742,D21CQCN01,Có,Lý do sức khỏe,Không,Không,Không có ý kiến,Nhập môn lập trình,Có,Nắm vững kiến thức,Có,Có,Có,Chương trình học phù hợp
+DH52201780,D21CQCN01,Có,Lý do sức khỏe,Có,Không,Tăng số buổi học nhóm,Kỹ thuật lập trình,Có,Cải thiện điểm,Không,Có,Có,Thiếu thực hành
+DH52201781,D21CQCN02,Có,Lịch học quá dày đặc,Có,Có,Tăng số buổi học nhóm,Nhập môn lập trình,Có,Qua môn,Không,Có,Có,Chương trình học phù hợp
+DH52200832,D22CQCN01,Không,Khác (tự do),Không,Có,Hỗ trợ thêm tài liệu tham khảo,Khác,Có,Nắm vững kiến thức,Có,Có,Có,Không có ý kiến
+DH52201766,D22CQCN01,Không,Lịch học quá dày đặc,Có,Có,Hỗ trợ thêm tài liệu tham khảo,Kỹ thuật lập trình,Có,Qua môn,Không,Không,Có,Không có ý kiến
+DH52200334,D21CQCN02,Có,Công việc cá nhân,Không,Có,Không có ý kiến,Cấu trúc dữ liệu,Có,Cải thiện điểm,Có,Có,Có,Thiếu thực hành
+DH52200953,D21CQCN02,Có,Lịch học quá dày đặc,Có,Không,Cải thiện bài giảng,Cấu trúc dữ liệu,Có,Cải thiện điểm,Không,Có,Có,Thiếu thực hành
+DH52201125,D22CQCN01,Có,Lịch học quá dày đặc,Có,Có,Tăng số buổi học nhóm,Nhập môn lập trình,Không,Nắm vững kiến thức,Có,Có,Có,Không có ý kiến
+DH52201538,D22CQCN01,Có,Lịch học quá dày đặc,Có,Có,Không có ý kiến,Nhập môn lập trình,Có,Cải thiện điểm,Không,Có,Có,Thiếu thực hành
+DH52200905,D21CQCN02,Có,Lịch học quá dày đặc,Có,Có,Tăng số buổi học nhóm,Khác,Có,Nắm vững kiến thức,Có,Có,Có,Cần cập nhật công nghệ mới
+DH52200438,D21CQCN01,Có,Khác (tự do),Không,Không,Tăng số buổi học nhóm,Khác,Có,Nắm vững kiến thức,Có,Có,Có,Cần cập nhật công nghệ mới
+DH52200368,D21CQCN01,Có,Công việc cá nhân,Có,Có,Cải thiện bài giảng,Lập trình hướng đối tượng,Có,Qua môn,Không,Có,Có,Thiếu thực hành
+DH52201500,D21CQCN02,Có,Khác (tự do),Không,Có,Cải thiện bài giảng,Khác,Có,Qua môn,Không,Có,Có,Không có ý kiến
+DH52200414,D21CQCN01,Có,Khác (tự do),Không,Có,Không có ý kiến,Lập trình hướng đối tượng,Không,Cải thiện điểm,Có,Có,Có,Chương trình học phù hợp
+DH52200954,D21CQCN02,Có,Lịch học quá dày đặc,Không,Có,Cải thiện bài giảng,Kỹ thuật lập trình,Có,Cải thiện điểm,Có,Có,Có,Thiếu thực hành
+DH52200512,D21CQCN01,Có,Lý do sức khỏe,Không,Có,Cải thiện bài giảng,Nhập môn lập trình,Có,Cải thiện điểm,Không,Không,Có,Thiếu thực hành
+DH52200644,D21CQCN01,Có,Lý do sức khỏe,Không,Có,Không có ý kiến,Kỹ thuật lập trình,Có,Nắm vững kiến thức,Không,Có,Có,Chương trình học phù hợp
+DH52201111,D22CQCN01,Có,Khác (tự do),Có,Có,Cải thiện bài giảng,Khác,Có,Nắm vững kiến thức,Không,Có,Có,Thiếu thực hành
+DH52200818,D22CQCN01,Có,Khác (tự do),Có,Có,Hỗ trợ thêm tài liệu tham khảo,Kỹ thuật lập trình,Có,Nắm vững kiến thức,Không,Có,Có,Chương trình học phù hợp
+DH52201483,D21CQCN01,Có,Lịch học quá dày đặc,Có,Có,Tăng số buổi học nhóm,Kỹ thuật lập trình,Có,Cải thiện điểm,Không,Có,Có,Không có ý kiến
+DH52200327,D21CQCN01,Có,Khác (tự do),Không,Có,Tăng số buổi học nhóm,Kỹ thuật lập trình,Có,Nắm vững kiến thức,Không,Không,Có,Cần cập nhật công nghệ mới
+DH52200341,D22CQCN01,Có,Lịch học quá dày đặc,Có,Có,Tăng số buổi học nhóm,Khác,Có,Nắm vững kiến thức,Có,Có,Có,Không có ý kiến
+DH52200504,D22CQCN01,Có,Lý do sức khỏe,Không,Có,Tăng số buổi học nhóm,Kỹ thuật lập trình,Có,Nắm vững kiến thức,Có,Có,Có,Cần cập nhật công nghệ mới
+DH52201301,D22CQCN01,Có,Lý do sức khỏe,Không,Không,Không có ý kiến,Lập trình hướng đối tượng,Không,Qua môn,Không,Không,Có,Chương trình học phù hợp
+DH52200926,D21CQCN02,Không,Công việc cá nhân,Có,Có,Tăng số buổi học nhóm,Khác,Có,Nắm vững kiến thức,Không,Có,Có,Cần cập nhật công nghệ mới
+DH52200707,D21CQCN01,Có,Lý do sức khỏe,Không,Có,Tăng số buổi học nhóm,Kỹ thuật lập trình,Có,Qua môn,Có,Có,Có,Không có ý kiến
+DH52201621,D22CQCN01,Có,Khác (tự do),Có,Có,Tăng số buổi học nhóm,Khác,Có,Qua môn,Có,Có,Có,Cần cập nhật công nghệ mới
+DH52200598,D21CQCN01,Không,Lý do sức khỏe,Có,Có,Tăng số buổi học nhóm,Cấu trúc dữ liệu,Có,Qua môn,Không,Có,Có,Chương trình học phù hợp
+DH52200521,D21CQCN02,Có,Lịch học quá dày đặc,Không,Không,Hỗ trợ thêm tài liệu tham khảo,Lập trình hướng đối tượng,Không,Nắm vững kiến thức,Có,Có,Có,Cần cập nhật công nghệ mới
+DH52200474,D21CQCN02,Không,Lý do sức khỏe,Không,Có,Tăng số buổi học nhóm,Kỹ thuật lập trình,Có,Nắm vững kiến thức,Có,Không,Có,Thiếu thực hành
+DH52201017,D22CQCN01,Có,Công việc cá nhân,Không,Không,Hỗ trợ thêm tài liệu tham khảo,Cấu trúc dữ liệu,Có,Qua môn,Có,Không,Có,Không có ý kiến
+DH52200709,D21CQCN02,Có,Lý do sức khỏe,Không,Có,Không có ý kiến,Cấu trúc dữ liệu,Không,Cải thiện điểm,Có,Có,Có,Thiếu thực hành
+DH52201277,D21CQCN01,Có,Lịch học quá dày đặc,Có,Có,Cải thiện bài giảng,Khác,Có,Cải thiện điểm,Có,Có,Có,Chương trình học phù hợp
+DH52201305,D22CQCN01,Không,Lịch học quá dày đặc,Không,Không,Tăng số buổi học nhóm,Cấu trúc dữ liệu,Không,Cải thiện điểm,Có,Có,Có,Cần cập nhật công nghệ mới
+DH52200548,D21CQCN01,Có,Khác (tự do),Không,Không,Cải thiện bài giảng,Lập trình hướng đối tượng,Có,Qua môn,Có,Không,Có,Thiếu thực hành
+DH52200842,D21CQCN01,Không,Lý do sức khỏe,Không,Không,Cải thiện bài giảng,Lập trình hướng đối tượng,Có,Cải thiện điểm,Không,Có,Có,Thiếu thực hành
+DH52201758,D21CQCN02,Có,Lịch học quá dày đặc,Có,Không,Không có ý kiến,Nhập môn lập trình,Có,Nắm vững kiến thức,Có,Có,Có,Cần cập nhật công nghệ mới
+DH52201662,D21CQCN02,Có,Công việc cá nhân,Không,Có,Cải thiện bài giảng,Lập trình hướng đối tượng,Có,Qua môn,Không,Có,Có,Cần cập nhật công nghệ mới
+DH52200715,D21CQCN02,Có,Khác (tự do),Có,Không,Hỗ trợ thêm tài liệu tham khảo,Cấu trúc dữ liệu,Không,Qua môn,Không,Có,Có,Không có ý kiến
+DH52200515,D21CQCN02,Không,Công việc cá nhân,Có,Có,Cải thiện bài giảng,Lập trình hướng đối tượng,Có,Cải thiện điểm,Có,Có,Không,Thiếu thực hành
+DH52201670,D21CQCN02,Có,Lý do sức khỏe,Không,Không,Cải thiện bài giảng,Khác,Có,Nắm vững kiến thức,Không,Có,Có,Thiếu thực hành
+DH52201671,D22CQCN01,Có,Lý do sức khỏe,Có,Có,Cải thiện bài giảng,Nhập môn lập trình,Có,Nắm vững kiến thức,Có,Có,Có,Chương trình học phù hợp
+DH52201698,D21CQCN01,Có,Lý do sức khỏe,Không,Không,Tăng số buổi học nhóm,Cấu trúc dữ liệu,Có,Nắm vững kiến thức,Không,Có,Có,Không có ý kiến
+DH52201402,D21CQCN01,Có,Khác (tự do),Không,Có,Tăng số buổi học nhóm,Nhập môn lập trình,Có,Cải thiện điểm,Có,Có,Có,Chương trình học phù hợp
+DH52201591,D21CQCN01,Có,Lịch học quá dày đặc,Có,Có,Hỗ trợ thêm tài liệu tham khảo,Cấu trúc dữ liệu,Không,Cải thiện điểm,Không,Có,Có,Thiếu thực hành
+DH52201573,D21CQCN01,Có,Khác (tự do),Không,Có,Hỗ trợ thêm tài liệu tham khảo,Khác,Có,Qua môn,Không,Không,Không,Chương trình học phù hợp
+DH52201295,D21CQCN02,Có,Công việc cá nhân,Không,Không,Tăng số buổi học nhóm,Nhập môn lập trình,Có,Nắm vững kiến thức,Có,Có,Có,Thiếu thực hành
+DH52200656,D21CQCN01,Có,Khác (tự do),Không,Có,Hỗ trợ thêm tài liệu tham khảo,Kỹ thuật lập trình,Có,Nắm vững kiến thức,Có,Có,Có,Thiếu thực hành
+DH52200823,D22CQCN01,Có,Công việc cá nhân,Không,Có,Tăng số buổi học nhóm,Cấu trúc dữ liệu,Có,Nắm vững kiến thức,Không,Có,Có,Chương trình học phù hợp
+DH52201298,D22CQCN01,Không,Khác (tự do),Không,Có,Không có ý kiến,Kỹ thuật lập trình,Có,Nắm vững kiến thức,Không,Có,Có,Chương trình học phù hợp
+DH52201029,D21CQCN01,Có,Lịch học quá dày đặc,Không,Có,Cải thiện bài giảng,Nhập môn lập trình,Có,Nắm vững kiến thức,Có,Có,Có,Cần cập nhật công nghệ mới
+DH52201395,D21CQCN01,Có,Công việc cá nhân,Không,Không,Cải thiện bài giảng,Kỹ thuật lập trình,Không,Qua môn,Không,Không,Có,Cần cập nhật công nghệ mới
+DH52200398,D22CQCN01,Không,Lý do sức khỏe,Có,Có,Hỗ trợ thêm tài liệu tham khảo,Kỹ thuật lập trình,Có,Nắm vững kiến thức,Có,Có,Không,Cần cập nhật công nghệ mới
+DH52201797,D22CQCN01,Có,Lý do sức khỏe,Không,Không,Tăng số buổi học nhóm,Nhập môn lập trình,Có,Qua môn,Không,Có,Có,Thiếu thực hành
+DH52200541,D21CQCN02,Có,Khác (tự do),Có,Có,Tăng số buổi học nhóm,Khác,Có,Cải thiện điểm,Có,Có,Có,Chương trình học phù hợp
+DH52201517,D22CQCN01,Có,Lý do sức khỏe,Không,Có,Hỗ trợ thêm tài liệu tham khảo,Kỹ thuật lập trình,Không,Qua môn,Không,Không,Có,Không có ý kiến
