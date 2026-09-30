@@ -1,0 +1,59 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+/* ── SIDEBAR MENU (dark) ────────────────────────────────────
+   Lưu ý: KHÔNG ép width/padding của .ant-menu-item.
+   antd tự tính padding khi thu gọn; ép tay sẽ làm icon lệch tâm. */
+
+.ant-menu {
+  color: #ffffff !important;
+}
+
+.ant-menu-item {
+  color: rgba(255, 255, 255, 0.9) !important;
+  border-radius: 14px !important;
+  height: 46px !important;
+  line-height: 46px !important;
+  margin-block: 6px !important;
+}
+
+.ant-menu-item-selected {
+  background: rgba(255, 255, 255, 0.16) !important;
+  color: #ffffff !important;
+  font-weight: 600;
+  box-shadow: none !important;
+}
+
+.ant-menu-item:hover {
+  background-color: rgba(255, 255, 255, 0.12) !important;
+}
+
+.ant-menu-item .ant-menu-item-icon {
+  font-size: 18px !important;
+}
+
+/* Chữ trong menu mờ dần thay vì bị cắt cụt khi thu gọn */
+.ant-menu-inline .ant-menu-title-content,
+.ant-menu-inline-collapsed .ant-menu-title-content {
+  transition:
+    opacity 0.18s ease,
+    margin 0.2s ease !important;
+}
+
+/* Nút thu gọn ở đáy sidebar */
+.ant-layout-sider-trigger {
+  background: #003567 !important;
+  transition: background 0.2s ease;
+}
+
+.ant-layout-sider-trigger:hover {
+  background: #00519f !important;
+}
+
+/* Sidebar co/giãn mượt, khớp với hiệu ứng fade của logo */
+.ant-layout-sider,
+.ant-layout-sider-children {
+  transition: all 0.2s cubic-bezier(0.2, 0, 0, 1) !important;
+}

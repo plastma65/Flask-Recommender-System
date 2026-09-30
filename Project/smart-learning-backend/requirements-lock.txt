@@ -1,0 +1,46 @@
+# ══════════════════════════════════════════════════════════════
+#  requirements-lock.txt — phiên bản THỰC TẾ đang chạy được
+#  (trích từ .venv-training trên máy gốc, ngày 19/08/2026)
+#
+#  DÙNG FILE NÀY, KHÔNG DÙNG requirements.txt.
+#
+#  Lý do: các file .pkl (teacher_svd_model, pass_prediction_model...)
+#  được pickle bằng scikit-learn 1.8.0 + xgboost 3.2.0 + numpy 1.26.4.
+#  Cài sai phiên bản => joblib.load() báo lỗi hoặc cho kết quả sai.
+#
+#  Yêu cầu: Python 3.11 (không phải 3.12/3.13).
+# ══════════════════════════════════════════════════════════════
+
+# ── Nền tảng số học: PHẢI cài trước, scikit-surprise cần numpy lúc build ──
+numpy==1.26.4
+
+# ── Web framework ──
+fastapi==0.104.1
+uvicorn==0.24.0
+python-multipart==0.0.26
+
+# ── Cấu hình ──
+pydantic==2.5.0
+pydantic-settings==2.2.1
+python-dotenv==1.2.2
+
+# ── Database ──
+sqlalchemy==2.0.23
+asyncpg==0.31.0
+alembic==1.18.4
+
+# ── Machine Learning (phiên bản khớp với file .pkl) ──
+joblib==1.5.3
+pandas==3.0.1
+scikit-learn==1.8.0
+scikit-surprise==1.1.4
+xgboost==3.2.0
+
+# ── NLP / Embedding cho gợi ý giảng viên ──
+torch==2.11.0
+sentence-transformers==5.3.0
+transformers==5.4.0
+pyvi==0.1.1
+
+# Windows timezone database
+tzdata

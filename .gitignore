@@ -205,3 +205,17 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Current web demo
+node_modules/
+dist/
+*.tsbuildinfo
+.env
+.env.*
+!.env.example
+*.log
+# Research data and trained artifacts are distributed privately.
+Project/Data/
+Project/smart-learning-backend/*.pkl
+Project/smart-learning-backend/*manifest.json
+docs/images/
